@@ -3,4 +3,5 @@
 
 Result:
 
-<img width="825" alt="Screenshot 2024-03-16 at 01 01 07" src="https://github.com/redjules/Chat-with-any-Website-using-Python-and-Langchain-/assets/106017493/01c1e2ed-db78-43f9-b6bd-e40a84e8bd54">
+
+![Screenshot 2024-03-16 at 20 08 30](https://github.com/redjules/Chat-with-any-Website-using-Python-and-Langchain-/assets/106017493/2cfb842f-f42b-4541-be0d-042f96d57684)
