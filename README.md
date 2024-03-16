@@ -1,5 +1,8 @@
 # Chat with any Website using Python and Langchain
 
+Architecture:
+
+![Screenshot 2024-03-17 at 00 02 05](https://github.com/redjules/Chat-with-website/assets/106017493/afd04335-9637-40c1-9ce7-f398b3849ea7)
 
 Result:
 
